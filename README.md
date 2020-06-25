@@ -17,11 +17,11 @@ Every Image will be processed with below steps to reterive the text : <br>
 
 # Sample Input Image
 
- [ ](https://github.com/SaiKumarNerella/Generating-Text-from-Images-using-OCR/Input.png)
+ ![alt text](https://github.com/SaiKumarNerella/Generating-Text-from-Images-using-OCR/Input.png?raw=true)
  
 # Sample Processed Image 
 
- [ ] (Intermediate.png)
+![alt text](https://github.com/SaiKumarNerella/Generating-Text-from-Images-using-OCR/Intermediate.png?raw=true)
  
  
 # Sample Output Text
