@@ -17,7 +17,7 @@ Every Image will be processed with below steps to reterive the text : <br>
 
 # Sample Input Image
 
- [ ](Input.png)
+ [ ](https://github.com/SaiKumarNerella/Generating-Text-from-Images-using-OCR/Input.png)
  
 # Sample Processed Image 
 
